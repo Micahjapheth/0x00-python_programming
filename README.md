@@ -1,2 +1,2 @@
-# 0x00-python_programming
+introduction to python
 Introduction to computer programming
